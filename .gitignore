@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bot specific ignores
+*.session
+*.session-journal
+*.log
